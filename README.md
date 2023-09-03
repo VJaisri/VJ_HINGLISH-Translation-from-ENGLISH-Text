@@ -5,6 +5,7 @@ Conversion from one language to another language without loosing it's fact can b
 # Installations
 * pip install transformers
 * pip install nltk
+* pip install sentencepiece
 * Python (Upgraded version)
 
 # Steps to follow
